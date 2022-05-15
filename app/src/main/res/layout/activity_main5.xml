@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity5"
+    android:background="@color/maincolor">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="@color/white"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:attr/selectableItemBackground">
+        </Button>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gtw5"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:textSize="20dp">
+        </TextView>
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/arrow"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="370dp">
+        </ImageView>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="@color/white"
+        android:layout_marginTop="80dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:attr/selectableItemBackground">
+        </Button>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gtw6"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:textSize="20dp">
+        </TextView>
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/arrow"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="370dp">
+        </ImageView>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="@color/white"
+        android:layout_marginTop="140dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:attr/selectableItemBackground">
+        </Button>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gtw7"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:textSize="20dp">
+        </TextView>
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/arrow"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="370dp">
+        </ImageView>
+
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="@color/white"
+        android:layout_marginTop="200dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:attr/selectableItemBackground">
+        </Button>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gtw8"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:textSize="20dp">
+        </TextView>
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/arrow"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="370dp">
+        </ImageView>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="@color/white"
+        android:layout_marginTop="260dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:attr/selectableItemBackground">
+        </Button>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gtw9"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:textSize="20dp">
+        </TextView>
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/arrow"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="370dp">
+        </ImageView>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="@color/white"
+        android:layout_marginTop="320dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:attr/selectableItemBackground">
+        </Button>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gtw10"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:textSize="20dp">
+        </TextView>
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/arrow"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="370dp">
+        </ImageView>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="1000dp"
+        android:layout_height="46dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="25dp"
+            android:text="@string/tests">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="20dp"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="25dp"
+            android:text="@string/text_main6">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="20dp"
+            android:layout_marginStart="180dp"
+            android:layout_marginTop="25dp"
+            android:text="@string/text_main7">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="20dp"
+            android:layout_marginStart="260dp"
+            android:layout_marginTop="25dp"
+            android:text="@string/text_main8">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginStart="345dp"
+            android:layout_marginTop="25dp"
+            android:text="@string/exit">
+
+        </TextView>
+
+        <ImageButton
+            android:id="@+id/imbtm"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginStart="40dp"
+            android:src="@drawable/tests"
+            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck,TouchTargetSizeCheck,TouchTargetSizeCheck,ImageContrastCheck,ImageContrastCheck">
+
+        </ImageButton>
+
+        <ImageButton
+            android:id="@+id/imbtm1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/homework"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="2dp"
+            tools:ignore="ImageContrastCheck,ImageContrastCheck,ImageContrastCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck,TouchTargetSizeCheck,TouchTargetSizeCheck">
+
+        </ImageButton>
+
+        <ImageButton
+            android:id="@+id/imbtm2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/diamond"
+            android:layout_marginStart="200dp"
+            android:layout_marginTop="2dp"
+            tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck">
+
+        </ImageButton>
+
+        <ImageButton
+            android:id="@+id/imbtm3"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/progress"
+            android:layout_marginStart="270dp"
+            android:layout_marginTop="2dp"
+            tools:ignore="ImageContrastCheck,ImageContrastCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck,TouchTargetSizeCheck,TouchTargetSizeCheck">
+
+        </ImageButton>
+
+        <ImageButton
+            android:id="@+id/imbtm4"
+            android:layout_width="35dp"
+            android:src="@drawable/exit"
+            android:layout_marginTop="2dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="345dp">
+        </ImageButton>
+
+    </FrameLayout>
+
+</RelativeLayout>
